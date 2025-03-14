@@ -35,33 +35,33 @@ const CONFIG = {
         {
             title: 'Who Dies First',
             description:
-              'I was an auxiliar developer for this project. I took development for a few monts and worked on various features.',
+              'Took over development from v4.0.2, contributing to iteration plans and adapting existing tools and code. Implemented features like kicking action, a victory screen minigame, landmines, breakable crates, and spikes, along with bug fixes and minor improvements. Also created 3D models and icons for the landmine, trampoline, and spikes.',
             imageUrl:
-              '.\public\specific\WhoDiesFirst1.png',
+              '/specific/WhoDiesFirst1.png',
             link: 'https://play.google.com/store/apps/details?id=com.games.whodiesfirst',
           },
           {
             title: 'Bouncing Rainbow',
             description:
-              '• Based in ASMR TikTok videos.<br>• Project delivered in one month (v0.1).<br>• Continued to implement other features.<br>• About 3 different mini games at launch.\n• Used Dotweens for the movement and animations.',
+              'Inspired by ASMR TikTok videos, the project was delivered in one month (v0.1) and later expanded with additional features. Launched with three different mini-games, utilizing DOTween for movement and animations.',
             imageUrl:
-              'Portfolio\public\specific\BouncingRainbow1.png',
+              '/specific/BouncingRainbow1.png',
             link: 'https://play.google.com/store/apps/details?id=com.games.bouncingrainbow',
           },
         {
           title: 'Structure Master',
           description:
-            '• Used Unity’s Joints to achieve around 6 different types of connections, each behaving in a distinct manner.\n• Build a state driven algorithm to keep track of the different results.\n• Used the “Shapes“ Asset during the prototyping phase in order to display 2D graphics.',
+            'Utilized Unity’s Joints to create six distinct connection types, each with unique behavior. Developed a state-driven algorithm to track different outcomes and used the "Shapes" asset during prototyping to display 2D graphics.',
           imageUrl:
-            '.\specific\StructureMaster1.png',
+            './specific/StructureMaster1.png',
           link: 'https://play.google.com/store/apps/details?id=com.games.structuremaster2d&hl=es_MX&gl=US',
         },
         {
           title: 'Trick Shot',
           description:
-            '• Made over 20+ diferent prefabs for the game elements.\n• Implemented mechanics like trampolines, directed paths, trajectory prediction.\n• Used the “Shapes“ Asset during the prototyping phase in order to display 2D graphics.',
+            'Created over 20 unique prefabs for game elements and implemented mechanics such as trampolines, directed paths, and trajectory prediction. Utilized the "Shapes" asset during prototyping to display 2D graphics.',
           imageUrl:
-            '\specific\TrickShot1.png',
+            '/specific/TrickShot1.png',
           link: 'https://play.google.com/store/apps/details?id=com.games.trickshot',
         },
       ],
@@ -70,7 +70,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Kevin Villalvazo',
     description: 'Videogame Developer | Unity, C# | with 4 years of experience',
-    imageURL: '.\specific\T_ProfilePicture.jpg',
+    imageURL: '/specific/T_ProfilePicture.jpg',
   },
   social: {
     linkedin: 'kevin-villalvazo',
