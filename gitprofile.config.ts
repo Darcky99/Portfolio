@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
-        limit: 3, // How many projects to display.
+        limit: 4, // How many projects to display.
         exclude: {
           forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -32,6 +32,30 @@ const CONFIG = {
       header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
+        {
+            title: 'Chaos Corp',
+            description:
+              '',
+            imageUrl:
+              '',
+            link: 'https://play.google.com/store/apps/details?id=com.VisualUniVRs.ChaosCorp',
+          },
+        {
+            title: 'Erskine Green Training Institute | VR training',
+            description:
+              'At EGTI, students receive training in hospitality, food service, healthcare, and inventory distribution. | My first delivered VR application takes users through various scenes, where they can watch presentations and interact with different elements while discovering what the Erskine Green Institute has to offer. | App not available to public',
+            imageUrl:
+              './specific/egti_icon.png',
+            link: 'https://www.erskinegreeninstitute.org/',
+          },
+        {
+            title: 'Generation Revolution',
+            description:
+              'Developed with Unity, General Revolutions is a presentation-like project that tells the story of Cato, a Black man fighting for the rights of Black Americans in a post-revolutionary New York context.',
+            imageUrl:
+              './specific/gr_icon.png',
+            link: 'https://genrev.historyadventures.app/',
+          },
         {
             title: 'Who Dies First',
             description:
