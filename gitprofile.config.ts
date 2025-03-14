@@ -37,15 +37,15 @@ const CONFIG = {
             description:
               'I was an auxiliar developer for this project. I took development for a few monts and worked on various features.',
             imageUrl:
-              '\specific\WhoDiesFirst1.png',
+              '.\public\specific\WhoDiesFirst1.png',
             link: 'https://play.google.com/store/apps/details?id=com.games.whodiesfirst',
           },
           {
             title: 'Bouncing Rainbow',
             description:
-              '• Based in ASMR TikTok videos.\n• Project delivered in one month (v0.1).\n• Continued to implement other features.\n• About 3 different mini games at launch.\n• Used Dotweens for the movement and animations.',
+              '• Based in ASMR TikTok videos.<br>• Project delivered in one month (v0.1).<br>• Continued to implement other features.<br>• About 3 different mini games at launch.\n• Used Dotweens for the movement and animations.',
             imageUrl:
-              '\specific\BouncingRainbow1.png',
+              'Portfolio\public\specific\BouncingRainbow1.png',
             link: 'https://play.google.com/store/apps/details?id=com.games.bouncingrainbow',
           },
         {
@@ -53,7 +53,7 @@ const CONFIG = {
           description:
             '• Used Unity’s Joints to achieve around 6 different types of connections, each behaving in a distinct manner.\n• Build a state driven algorithm to keep track of the different results.\n• Used the “Shapes“ Asset during the prototyping phase in order to display 2D graphics.',
           imageUrl:
-            '\specific\StructureMaster1.png',
+            '.\specific\StructureMaster1.png',
           link: 'https://play.google.com/store/apps/details?id=com.games.structuremaster2d&hl=es_MX&gl=US',
         },
         {
