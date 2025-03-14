@@ -37,7 +37,7 @@ const CONFIG = {
             description:
               'Took over development from v4.0.2, contributing to iteration plans and adapting existing tools and code. Implemented features like kicking action, a victory screen minigame, landmines, breakable crates, and spikes, along with bug fixes and minor improvements. Also created 3D models and icons for the landmine, trampoline, and spikes.',
             imageUrl:
-              '/specific/WhoDiesFirst1.png',
+              './specific/WhoDiesFirst1.png',
             link: 'https://play.google.com/store/apps/details?id=com.games.whodiesfirst',
           },
           {
@@ -45,7 +45,7 @@ const CONFIG = {
             description:
               'Inspired by ASMR TikTok videos, the project was delivered in one month (v0.1) and later expanded with additional features. Launched with three different mini-games, utilizing DOTween for movement and animations.',
             imageUrl:
-              '/specific/BouncingRainbow1.png',
+              './specific/BouncingRainbow1.png',
             link: 'https://play.google.com/store/apps/details?id=com.games.bouncingrainbow',
           },
         {
@@ -61,7 +61,7 @@ const CONFIG = {
           description:
             'Created over 20 unique prefabs for game elements and implemented mechanics such as trampolines, directed paths, and trajectory prediction. Utilized the "Shapes" asset during prototyping to display 2D graphics.',
           imageUrl:
-            '/specific/TrickShot1.png',
+            './specific/TrickShot1.png',
           link: 'https://play.google.com/store/apps/details?id=com.games.trickshot',
         },
       ],
@@ -70,7 +70,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Kevin Villalvazo',
     description: 'Videogame Developer | Unity, C# | with 4 years of experience',
-    imageURL: '/specific/T_ProfilePicture.jpg',
+    imageURL: './specific/T_ProfilePicture.jpg',
   },
   social: {
     linkedin: 'kevin-villalvazo',
