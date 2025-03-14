@@ -33,36 +33,36 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-            title: 'Project 1',
+            title: 'Who Dies First',
             description:
-              'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+              'I was an auxiliar developer for this project. I took development for a few monts and worked on various features.',
             imageUrl:
-              'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-            link: 'https://example.com',
+              '\specific\WhoDiesFirst1.png',
+            link: 'https://play.google.com/store/apps/details?id=com.games.whodiesfirst',
           },
           {
-            title: 'Project 2',
+            title: 'Bouncing Rainbow',
             description:
-              'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+              '• Based in ASMR TikTok videos.\n• Project delivered in one month (v0.1).\n• Continued to implement other features.\n• About 3 different mini games at launch.\n• Used Dotweens for the movement and animations.',
             imageUrl:
-              'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-            link: 'https://example.com',
+              '\specific\BouncingRainbow1.png',
+            link: 'https://play.google.com/store/apps/details?id=com.games.bouncingrainbow',
           },
         {
-          title: 'Project 3',
+          title: 'Structure Master',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '• Used Unity’s Joints to achieve around 6 different types of connections, each behaving in a distinct manner.\n• Build a state driven algorithm to keep track of the different results.\n• Used the “Shapes“ Asset during the prototyping phase in order to display 2D graphics.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '\specific\StructureMaster1.png',
+          link: 'https://play.google.com/store/apps/details?id=com.games.structuremaster2d&hl=es_MX&gl=US',
         },
         {
-          title: 'Project 4',
+          title: 'Trick Shot',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            '• Made over 20+ diferent prefabs for the game elements.\n• Implemented mechanics like trampolines, directed paths, trajectory prediction.\n• Used the “Shapes“ Asset during the prototyping phase in order to display 2D graphics.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            '\specific\TrickShot1.png',
+          link: 'https://play.google.com/store/apps/details?id=com.games.trickshot',
         },
       ],
     },
@@ -70,7 +70,7 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Kevin Villalvazo',
     description: 'Videogame Developer | Unity, C# | with 4 years of experience',
-    imageURL: '',
+    imageURL: '.\specific\T_ProfilePicture.jpg',
   },
   social: {
     linkedin: 'kevin-villalvazo',
