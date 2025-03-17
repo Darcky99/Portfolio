@@ -37,7 +37,7 @@ const CONFIG = {
             description:
               'VR application for OrthoWorx to educate users about the orthopedic industry, presenting key concepts and guiding them through the fabrication process of orthopedic artifacts. As one of the two developers, I contributed to Chapters 6–11, enhancing interactive activities and refining VR interactions. This project provided valuable experience in working on complex VR systems while ensuring an engaging and accurate educational experience. | App not available to the public.',
               imageUrl:
-              './specific/_icon.png',
+              './specific/orthoworx_logo.jpeg',
             link: 'https://orthoworxindiana.com/',
           }, 
         {
