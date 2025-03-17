@@ -33,17 +33,33 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+            title: 'OrthoWorx',
+            description:
+              'VR application for OrthoWorx to educate users about the orthopedic industry, presenting key concepts and guiding them through the fabrication process of orthopedic artifacts. As one of the two developers, I contributed to Chapters 6–11, enhancing interactive activities and refining VR interactions. This project provided valuable experience in working on complex VR systems while ensuring an engaging and accurate educational experience. | App not available to the public.',
+              imageUrl:
+              './specific/_icon.png',
+            link: 'https://orthoworxindiana.com/',
+          }, 
+        {
+            title: 'Earth Ranger',
+            description:
+              'You will simulate a radio call interaction, study animal behavior, and go through various daily activities as an Earth Ranger. | Another VR project of great value to me, as this is where I learned about VR interaction. | App not available to the public.',
+              imageUrl:
+              './specific/earthranger_icon.png',
+            link: '',
+          },
+        {
             title: 'Chaos Corp',
             description:
-              '',
-            imageUrl:
-              '',
+              'An educational experience designed for Filipino students who wish to better understand the methods of manipulation they are exposed to when reading online information. I led the development of this app from June 2024 to March 2025, implementing features such as a saving system, new cards, UI modernization, videos, animations, and other improvements.',
+              imageUrl:
+              './specific/bouncingrainbow_icon.png',
             link: 'https://play.google.com/store/apps/details?id=com.VisualUniVRs.ChaosCorp',
           },
         {
             title: 'Erskine Green Training Institute | VR training',
             description:
-              'At EGTI, students receive training in hospitality, food service, healthcare, and inventory distribution. | My first delivered VR application takes users through various scenes, where they can watch presentations and interact with different elements while discovering what the Erskine Green Institute has to offer. | App not available to public',
+              'At EGTI, students receive training in hospitality, food service, healthcare, and inventory distribution. | My first delivered VR application takes users through various scenes, where they can watch presentations and interact with different elements while discovering what the Erskine Green Institute has to offer. | App not available to the public.',
             imageUrl:
               './specific/egti_icon.png',
             link: 'https://www.erskinegreeninstitute.org/',
@@ -61,7 +77,7 @@ const CONFIG = {
             description:
               'Took over development from v4.0.2, contributing to iteration plans and adapting existing tools and code. Implemented features like kicking action, a victory screen minigame, landmines, breakable crates, and spikes, along with bug fixes and minor improvements. Also created 3D models and icons for the landmine, trampoline, and spikes.',
             imageUrl:
-              './specific/WhoDiesFirst1.png',
+              './specific/whodiesfirst_icon.png',
             link: 'https://play.google.com/store/apps/details?id=com.games.whodiesfirst',
           },
           {
@@ -69,7 +85,7 @@ const CONFIG = {
             description:
               'Inspired by ASMR TikTok videos, the project was delivered in one month (v0.1) and later expanded with additional features. Launched with three different mini-games, utilizing DOTween for movement and animations.',
             imageUrl:
-              './specific/BouncingRainbow1.png',
+              './specific/bouncingrainbow_icon.png',
             link: 'https://play.google.com/store/apps/details?id=com.games.bouncingrainbow',
           },
         {
@@ -77,7 +93,7 @@ const CONFIG = {
           description:
             'Utilized Unity’s Joints to create six distinct connection types, each with unique behavior. Developed a state-driven algorithm to track different outcomes and used the "Shapes" asset during prototyping to display 2D graphics.',
           imageUrl:
-            './specific/StructureMaster1.png',
+            './specific/structuremaster_icon.png',
           link: 'https://play.google.com/store/apps/details?id=com.games.structuremaster2d&hl=es_MX&gl=US',
         },
         {
@@ -85,7 +101,7 @@ const CONFIG = {
           description:
             'Created over 20 unique prefabs for game elements and implemented mechanics such as trampolines, directed paths, and trajectory prediction. Utilized the "Shapes" asset during prototyping to display 2D graphics.',
           imageUrl:
-            './specific/TrickShot1.png',
+            './specific/trickshot_icon.png',
           link: 'https://play.google.com/store/apps/details?id=com.games.trickshot',
         },
       ],
