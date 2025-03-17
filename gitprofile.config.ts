@@ -53,7 +53,7 @@ const CONFIG = {
             description:
               'An educational experience designed for Filipino students who wish to better understand the methods of manipulation they are exposed to when reading online information. I led the development of this app from June 2024 to March 2025, implementing features such as a saving system, new cards, UI modernization, videos, animations, and other improvements.',
               imageUrl:
-              './specific/bouncingrainbow_icon.png',
+              './specific/chaoscorp_icon.png',
             link: 'https://play.google.com/store/apps/details?id=com.VisualUniVRs.ChaosCorp',
           },
         {
