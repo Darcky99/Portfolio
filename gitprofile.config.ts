@@ -33,20 +33,20 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-            title: 'OrthoWorx',
+            title: 'OrthoWorx | VR',
             description:
               'VR application for OrthoWorx to educate users about the orthopedic industry, presenting key concepts and guiding them through the fabrication process of orthopedic artifacts. As one of the two developers, I contributed to Chapters 6–11, enhancing interactive activities and refining VR interactions. This project provided valuable experience in working on complex VR systems while ensuring an engaging and accurate educational experience. | App not available to the public.',
               imageUrl:
               './specific/orthoworx_logo.jpeg',
-            link: 'https://orthoworxindiana.com/',
+            link: 'https://drive.google.com/drive/folders/1Qp3axr6kxhr4NZ59o8IFPNSUkbM_6sYA?usp=sharing',
           }, 
         {
-            title: 'Earth Ranger',
+            title: 'Earth Ranger | VR',
             description:
               'You will simulate a radio call interaction, study animal behavior, and go through various daily activities as an Earth Ranger. | Another VR project of great value to me, as this is where I learned about VR interaction. | App not available to the public.',
               imageUrl:
               './specific/earthranger_icon.png',
-            link: '',
+            link: 'https://drive.google.com/file/d/19KUsYUbEBm440_zA_Dnkdfr_Ay86Iwqm/view?usp=sharing',
           },
         {
             title: 'Chaos Corp',
@@ -57,12 +57,12 @@ const CONFIG = {
             link: 'https://play.google.com/store/apps/details?id=com.VisualUniVRs.ChaosCorp',
           },
         {
-            title: 'Erskine Green Training Institute | VR training',
+            title: 'Erskine Green Training Institute | VR',
             description:
               'At EGTI, students receive training in hospitality, food service, healthcare, and inventory distribution. | My first delivered VR application takes users through various scenes, where they can watch presentations and interact with different elements while discovering what the Erskine Green Institute has to offer. | App not available to the public.',
             imageUrl:
               './specific/egti_icon.png',
-            link: 'https://www.erskinegreeninstitute.org/',
+            link: 'https://drive.google.com/file/d/19GPYfnQ59OhQQd_IsPVE3sHMTnq8kCsy/view?usp=sharing',
           },
         {
             title: 'Generation Revolution',
